@@ -5,8 +5,8 @@ using System.IO;
 public static class Helper
 {
     public static int savingIndex = 0 ;
-    public static string pathToStatFile = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\EvolutionThesis\Assets\Data\SavedStats\fitnessData.tsv";
-    public static string pathToScreenshots = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\EvolutionThesis\Assets\Data\Screenshots\";
+    public static string pathToStatFile = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\MorphologicalAdaptation\Assets\Data\SavedStats\fitnessData.tsv";
+    public static string pathToScreenshots = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\MorphologicalAdaptation\Assets\Data\Screenshots\";
 
     public static T FindComponentInChildWithTag<T>(this GameObject parent, string tag) where T : Component
     {

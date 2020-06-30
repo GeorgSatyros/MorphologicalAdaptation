@@ -7218,7 +7218,7 @@ PrefabInstance:
         type: 3}
       propertyPath: creaturePrefab
       value: 
-      objectReference: {fileID: 7490054430397593828, guid: f260056aef1569b4580aa2ee7e70dccc,
+      objectReference: {fileID: 7696678930030593750, guid: d1186c146b38ac04080562111e463560,
         type: 3}
     - target: {fileID: 8927763700564244780, guid: 8508be5ca88fd834eb46401202e0b97e,
         type: 3}
